@@ -1,7 +1,6 @@
 
 # Hi there, I'm Michael 👋
-🌱 currently learning C, C#, Javascript, React JS, and Java.
-I'm a passionate developer and tech enthusiast who loves building innovative solutions and exploring new technologies. Welcome to my GitHub profile!
+🌱 I'm a passionate developer and tech enthusiast who loves building innovative solutions and exploring new technologies and currently learning C, C#, Javascript, React JS, and Java. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my skills in full-stack development.
