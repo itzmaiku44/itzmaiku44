@@ -1,6 +1,6 @@
 
 # Hi there, I'm Michael 👋
-🌱 I'm a passionate developer and tech enthusiast who loves building innovative solutions and exploring new technologies and currently learning C, C#, Javascript, React JS, and Java. Welcome to my GitHub profile!
+🌱 I'm a passionate developer and tech enthusiast who loves building innovative solutions and exploring new technologies and currently learning C, C#, Javascript, and Java. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my skills in full-stack development.
@@ -9,10 +9,10 @@
 - ⚡ Fun fact: I enjoy solving puzzles and playing strategy games in my free time.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, TypeScript, Java
+- **Languages:** JavaScript, Python, TypeScript, C#, C, VB
 - **Frontend:** React, Vue.js, HTML, CSS, TailwindCSS
 - **Backend:** Node.js, Express, PHP
-- **Databases:** MySQL, SQLite
+- **Databases:** MySQL, SQLite, Firebase
 - **Other Tools:** Git
 
 ## 🌟 GitHub Stats
