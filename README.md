@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my skills in full-stack development.
 - 🌱 I’m learning more about DevOps, cloud technologies, and AI/ML.
-- 📫 How to reach me: [23104143@usc.edu.ph](mailto:23104143@usc.edu.ph)
+- 📫 How to reach me: [michael.jcatubig@gmail.com](mailto:michael.jcatubig@gmail.com)
 - ⚡ Fun fact: I enjoy solving puzzles and playing strategy games in my free time.
 
 ## 🛠️ Tech Stack
